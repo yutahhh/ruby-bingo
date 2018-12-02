@@ -1,2 +1,1 @@
 # ruby-bingo
-# ruby-bingo
