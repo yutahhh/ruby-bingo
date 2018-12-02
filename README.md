@@ -1,1 +1,2 @@
-# ruby-bingo
+# ruby リーチ 斜め判定 付きbingo
+個人用アカウントに移行
